@@ -1,0 +1,19 @@
+unit converter
+
+mass
+distance
+money
+temp
+
+
+    printf("\e[1;1H\e[2J");//clear screen
+
+    printf("\n---------- 1. Temperature ---------\n");
+
+    printf("1. Fahrenheit to Celsius\n");
+
+
+    
+        printf("\nPress any key to Back to main menu...\n");
+        getch();
+        main();

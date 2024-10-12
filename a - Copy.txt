@@ -1,0 +1,20 @@
+4.Write a program to swap two variables’ values with and without using third variables
+
+
+5.Write  a program to check  odd  or even number 
+(a)  using modulus  operator  
+(b) using bitwise operator 
+(c) without using bitwise and modulus operator 
+(d)  using conditional operator.
+
+6.Print the value of y for given x=2 & z=4 and analyze the output.
+
+ a. y = x++ + ++x; 
+ b. y = ++x + ++x; 
+ c.  y = ++x + ++x + ++x;
+d.   y = x>z;  
+e.   y= x>z? x:z;  
+f.  y = x&z; 
+g.   y= x>>2 + z<<1;
+
+7.Write a program to print the size of char, float, double and long double data types in C
