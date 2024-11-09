@@ -1,5 +1,4 @@
-#include<iostream>
-using namespace std;
+#include<stdio.h>
 
 int main()
 {
@@ -17,7 +16,6 @@ int main()
             }
         }
 
-        // cout << "\ni= "<<i<<"\n";
         if (c == 0 )
             printf("%d ", i);
         c = 0;

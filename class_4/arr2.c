@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    // Your code goes here
 
     int arr[10];
     int sum = 0;
@@ -13,8 +12,5 @@ int main() {
 
     printf("avg is:: %.2f\n", (float)sum/10.0);
 
-    // for ( int i = 0; i < 5;i++) {
-    //     printf("%d\n", arr[i]);
-    // }
     return 0;
 }

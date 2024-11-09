@@ -12,7 +12,5 @@ int main() {
         printf("not a perfect squre\n");
     }
 
-    // printf("%lf\n", sqrt(a));
-    // printf("%lf\n", (float)(int)sqrt(a));
     return 0;
 }

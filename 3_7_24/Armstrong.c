@@ -21,9 +21,6 @@ int main() {
         ans = ans + pow(mod, len);
     }
 
-    // printf("\nnum: %d\n", ans);
-
-    // printf("%d\n", len);
 
     if (num == ans) {
         printf("\n%d is and armstrong number.",num);

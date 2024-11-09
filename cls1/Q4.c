@@ -6,8 +6,5 @@ int main() {
     scanf("%lf %lf", &a, &n);
     printf("Power :: %.2lf\n", pow(a, n));
 
-    
     return 0;
-        
-
 }

@@ -8,4 +8,5 @@ int main() {
     f = (9.0 / 5.0) * c + 32.0;
     printf("Farenhiet temp :: %.2f\n", f);
 
+    return 0;
 }

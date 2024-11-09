@@ -10,4 +10,5 @@ int main() {
 
     printf("Celcuis temp :: %.2f\n", c);
 
+    return 0;
 }

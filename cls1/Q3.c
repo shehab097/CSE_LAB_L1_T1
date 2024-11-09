@@ -7,6 +7,4 @@ int main() {
 
     printf("root(n) :: %.2lf\n", sqrt(n));
     return 0;
-        
-
 }
